@@ -1,5 +1,9 @@
 # Big_Data_Project__PySpark
-
+Author: Guan Ming Chee </br>
+Language: Python </br>
+Tools: Pyspark, Databricks Notebook, MatPlotLib, Seaborn, Regex </br>
+Data: **tar command in Linux with examples** (see resources section) </br>
+Task: Count words and spot frequently used words in a text data. </br>
 
 - Insert data
 ```
