@@ -63,7 +63,7 @@ df = pd.DataFrame.from_records(output, columns =[xlabel, ylabel])
 plt.figure(figsize=(10,10))
 sns.barplot(ylabel, xlabel, data=df, palette="magma_r").set_title(title)
 ```
-![wordcount graph](image.jpg)
+![](wordcount_graph.png)
 
 ## Resources
 - Original text: 
